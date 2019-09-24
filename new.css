@@ -1,0 +1,660 @@
+*{
+    width: 1500px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+.body{
+    height: auto;
+}
+.ppgs{
+    width: 1500px;
+    height: 100px;
+    font-size: 60px;
+    color: dodgerblue;
+    margin-top: 20px;
+    background-color: orange;
+}
+.pary{
+    width: 1500px;
+    height: auto;
+    background-color: #ee98ee;
+}
+.title1{
+    width: 200px;
+    height: 50px;
+    font-size: 50px;
+    color: dodgerblue;
+    margin-left: 10px;
+}
+.p1{
+    background: url(./奢侈品/巴黎世家/BALENCIAGA.jpg);
+    width: 600px;
+    height: 180px;
+    margin-right: 10px;
+    margin-top: -50px;
+}
+.gs1{
+    height: 200px;
+    font-size: 16px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: -100px;
+    color: blue;
+}
+.gs1c{
+    height: 100px;
+    font-size: 16px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: -100px;
+    color: blue;
+}
+.p2{
+    background: url(./奢侈品/巴黎世家/c3c750e6dd823101a45c86a82daf2e83.jpg);
+    width: 300px;
+    height: 600px;
+    margin-left: 20px;
+    margin-top: -50px;
+}
+.gs2{
+    height: 200px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -600px;
+    color: blue;
+}
+.gs2c{
+    height: 100px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -100px;
+    color: blue;
+}
+.gs3{
+    height: 200px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -30px;
+    color: blue;
+}
+.gs3c{
+    height: 100px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -100px;
+    color: blue;
+}
+.gs4{
+    height: 200px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -30px;
+    color: blue;
+}
+.gs4c{
+    height: 100px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -100px;
+    color: blue;
+}
+.p3{
+    background: url(./奢侈品/巴黎世家/837f9b4f44d9a8e8fdb4ae3a128faffb.jpg)no-repeat;
+    width: 500px;
+    height: 500px;
+    margin-right: 10px;
+    margin-top: -50px;
+}
+.gs5{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -350px;
+    color: blue;
+}
+.gs5c{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -50px;
+    color: blue;
+}
+.gs6{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    color: blue;
+}
+.gs6c{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -50px;
+    color: blue;
+}
+.p4{
+    background: url(./奢侈品/巴黎世家/1.png)no-repeat;
+    width: 300px;
+    height: 350px;
+    margin-right: 10px;
+    margin-top: -100px;
+}
+.gs7{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -200px;
+    color: blue;
+}
+.gs7c{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -50px;
+    color: blue;
+}
+.dio{
+    width: 1500px;
+    height: auto;
+    background-color: #ffff01;
+    margin-top: 50px;
+}
+.title2{
+    width: 200px;
+    height: 50px;
+    font-size: 50px;
+    color: dodgerblue;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.p1d{
+    background: url(./奢侈品/dio/u=1364759243\,2365607864&fm=26&gp=0.jpg)no-repeat;
+    width: 450px;
+    height: 150px;
+    margin-right: 10px;
+    margin-top: -20px;
+}
+.gs1d{
+    height: 200px;
+    font-size: 16px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: -100px;
+    color: #974478;
+}
+.gs1cd{
+    height: 100px;
+    font-size: 16px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: -100px;
+    color: #974478;
+}
+.p2d{
+    background: url(./奢侈品/dio/u=2118163226\,2677846145&fm=26&gp=0.jpg)no-repeat;
+    width: 400px;
+    height: 295px;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+.gs2d{
+    height: 200px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -300px;
+    color: #974478;
+}
+.gs2cd{
+    height: 100px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -100px;
+    color: #974478;
+}
+.gs3d{
+    height: 200px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 50px;
+    margin-top: -30px;
+    color: #974478;
+}
+.gs3cd{
+    height: 100px;
+    font-size: 16px;
+    width: 1000px;
+    margin-left: 50px;
+    margin-top: -50px;
+    color: #974478;
+}
+.gs4d{
+    height: 200px;
+    font-size: 16px;
+    width: 1000px;
+    margin-left: 50px;
+    margin-top: -10px;
+    color: #974478;
+}
+.gs4cd{
+    height: 100px;
+    font-size: 16px;
+    width: 1000px;
+    margin-left: 50px;
+    margin-top: -60px;
+    color: #974478;
+}
+.p3d{
+    background: url(./奢侈品/dio/u=2560036761\,2849708651&fm=26&gp=0.jpg)no-repeat;
+    width: 350px;
+    height: 550px;
+    margin-right: 10px;
+    margin-top: -350px;
+}
+.gs5d{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -200px;
+    color: #974478;
+}
+.gs5cd{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -50px;
+    color: #974478;
+}
+.gs6d{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    color: #974478;
+}
+.gs6cd{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -50px;
+    color: #974478;
+}
+.p4d{
+    background: url(./奢侈品/dio/u=1049472783\,43335783&fm=26&gp=0.jpg)no-repeat;
+    width: 500px;
+    height: 501px;
+    margin-right: 10px;
+    margin-top: -200px;
+}
+.gs7d{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -280px;
+    color: #974478;
+}
+.gs7cd{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -20px;
+    color: #974478;
+}
+.gs8d{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: #974478;
+}
+.gs8cd{
+    height: 150px;
+    font-size: 16px;
+    width: 520px;
+    margin-right: 20px;
+    margin-top: -188px;
+    color: #974478;
+}
+.lv{
+    width: 1500px;
+    height: auto;
+    background-color: #89520a;
+}
+.title3{
+    width: 450px;
+    height: 100px;
+    font-size: 50px;
+    color: #f1d072;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.p1l{
+    background: url(./奢侈品/lv/u=525619508\,94838556&fm=26&gp=0.jpg)no-repeat;
+    width: 500px;
+    height: 250px;
+    margin-right: 10px;
+    margin-top: -20px;
+}
+.gs1l{
+    height: 200px;
+    font-size: 16px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: -250px;
+    color: #f1d072;
+}
+.gs1cl{
+    height: 100px;
+    font-size: 16px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: -50px;
+    color: #f1d072;
+}
+.p2l{
+    background: url(./奢侈品/lv/u=1743740249\,2332523209&fm=26&gp=0.jpg)no-repeat;
+    width: 450px;
+    height: 340px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.gs2l{
+    height: 200px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 30px;
+    margin-top: -340px;
+    color: #f1d072;
+}
+.gs2cl{
+    height: 100px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 20px;
+    margin-top: -50px;
+    color: #f1d072;
+}
+.gs3l{
+    height: 200px;
+    font-size: 16px;
+    width: 1000px;
+    margin-right: 20px;
+    margin-top: 5px;
+    color: #f1d072;
+}
+.gs3cl{
+    height: 100px;
+    font-size: 16px;
+    width: 950px;
+    margin-left: 10px;
+    margin-top: -50px;
+    color: #f1d072;
+}
+.gs4l{
+    height: 200px;
+    font-size: 16px;
+    width: 950px;
+    margin-left: 10px;
+    margin-top: 10px;
+    color: #f1d072;
+}
+.gs4cl{
+    height: 100px;
+    font-size: 16px;
+    width: 950px;
+    margin-left: 10px;
+    margin-top: -20px;
+    color: #f1d072;
+}
+.p3l{
+    background: url(./奢侈品/lv/u=2198283778\,1731963899&fm=26&gp=0.jpg)no-repeat;
+    width: 500px;
+    height: 500px;
+    margin-right: 10px;
+    margin-top: -390px;
+}
+.vl{
+    width: 1500px;
+    height: auto;
+    background-color: #7ee0e3;
+    margin-top: 50px;
+}
+.title4{
+    width: 250px;
+    height: 70px;
+    font-size: 50px;
+    color: #931c04;
+    margin-left: 10px;
+}
+.p1v{
+    background: url(./奢侈品/vl/u=525593760\,1046544142&fm=26&gp=0.jpg)no-repeat;
+    width: 500px;
+    height: 300px;
+    margin-right: 50px;
+    margin-top: -50px;
+}
+.gs1v{
+    height: 200px;
+    font-size: 16px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: -250px;
+    color: #931c04;
+}
+.gs1cv{
+    height: 100px;
+    font-size: 16px;
+    width: 800px;
+    margin-left: 20px;
+    margin-top: 0px;
+    color: #931c04;
+}
+.p2v{
+    background: url(./奢侈品/vl/u=2352301244\,2316077515&fm=26&gp=0.jpg)no-repeat;
+    width: 500px;
+    height: 333px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.gs2v{
+    height: 200px;
+    font-size: 16px;
+    width: 950px;
+    margin-right: 20px;
+    margin-top: -300px;
+    color: #931c04;
+}
+.gs2cv{
+    height: 100px;
+    font-size: 16px;
+    width: 950px;
+    margin-right: 20px;
+    margin-top: -50px;
+    color: #931c04;
+}
+.gs3v{
+    height: 200px;
+    font-size: 16px;
+    width: 950px;
+    margin-right: 20px;
+    margin-top: 30px;
+    color: #931c04;
+}
+.gs3cv{
+    height: 100px;
+    font-size: 16px;
+    width: 920px;
+    margin-left: 50px;
+    margin-top: -70px;
+    color: #931c04;
+}
+.gs4v{
+    height: 200px;
+    font-size: 16px;
+    width: 920px;
+    margin-left: 50px;
+    margin-top: 0px;
+    color: #931c04;
+}
+.gs4cv{
+    height: 100px;
+    font-size: 16px;
+    width: 920px;
+    margin-left: 50px;
+    margin-top: -110px;
+    color: #931c04;
+}
+.p3v{
+    background: url(./奢侈品/vl/下载.jpg)no-repeat;
+    width: 500px;
+    height: 300px;
+    margin-right: 10px;
+    margin-top: -250px;
+}
+.gs5v{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -50px;
+    color: #931c04;
+}
+.gs5cv{
+    height: 100px;
+    font-size: 16px;
+    width: 1500px;
+    margin-right: 20px;
+    margin-top: -20px;
+    color: #931c04;
+}
+.gs6v{
+    height: 190px;
+    font-size: 16px;
+    width: 1500px;
+    margin-right: 20px;
+    color: #931c04;
+    margin-top: -30px;
+}
+.gs6cv{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -80px;
+    color: #931c04;
+}
+.p4v{
+    background: url(./奢侈品/vl/1.jpg)no-repeat;
+    width: 500px;
+    height: 500px;
+    margin-right: 10px;
+    margin-top: -100px;
+}
+.gs7v{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -400px;
+    color: #931c04;
+}
+.gs7cv{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -80px;
+    color: #931c04;
+}
+.gs8v{
+    height: 190px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -20px;
+    color: #931c04;
+}
+.gs8cv{
+    height: 100px;
+    font-size: 16px;
+    width: 900px;
+    margin-left: 50px;
+    margin-top: -50px;
+    color: #931c04;
+}
+.gs9v{
+    height: 190px;
+    font-size: 16px;
+    width: 1500px;
+    margin-top: -20px;
+    color: #931c04;
+}
+.gs9cv{
+    height: 100px;
+    font-size: 16px;
+    width: 1500px;
+    margin-top: -80px;
+    color: #931c04;
+}
+.gs10v{
+    height: 190px;
+    font-size: 16px;
+    width: 1500px;
+    margin-top: -20px;
+    color: #931c04;
+}
+.gs10cv{
+    height: 100px;
+    font-size: 16px;
+    width:1500px;
+    margin-top: -70px;
+    color: #931c04;
+}
+.gs11v{
+    height: 190px;
+    font-size: 16px;
+    width: 1500px;
+    margin-top: -20px;
+    color: #931c04;
+}
+.gs11cv{
+    height: 100px;
+    font-size: 16px;
+    width: 1500px;
+    margin-top: -110px;
+    color: #931c04;
+}
+.gs12v{
+    height: 190px;
+    font-size: 16px;
+    width: 1500px;
+    margin-top: -50px;
+    color: #931c04;
+}
+.gs12cv{
+    height: 100px;
+    font-size: 16px;
+    width: 1500px;
+    margin-top: -110px;
+    color: #931c04;
+}
